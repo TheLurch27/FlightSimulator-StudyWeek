@@ -18,8 +18,8 @@
 ### Simulationen
 
 • Flussteil 
-- Wasserfall (Kevin)
-- Fluss (Kevin)
+- [ ] Wasserfall (Kevin)
+- Fluss (Kevin) 
 - See/Meer (Kevin)
 
 ### Shader (Alex)
