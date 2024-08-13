@@ -1,46 +1,47 @@
 ### Art (Bert)
 
-- Bäume
-- Steine
+- [ ] Bäume
+- [ ] Steine
 
 
 ### Sound (Tuti)
 
-• Flugzeug Sound
-
-- Engine Start
-- Gerader Flug Sound
-- Kurven Flug
-- Crash Sound
-
-• Button Klick Sound
+- [ ] Engine Start
+- [ ] Gerader Flug Sound
+- [ ] Kurven Flug
+- [ ] Crash Sound
+- [ ] Button Klick Sound
 
 ### Simulationen
 
 • Flussteil 
 - [ ] Wasserfall (Kevin)
-- Fluss (Kevin) 
-- See/Meer (Kevin)
+- [ ] Fluss (Kevin) 
+- [ ] See/Meer (Kevin)
+- [ ] Vulkan (Alex)
 
-### Shader (Alex)
-- Sand
-
-### Clouds (Alex)
+### Material (Alex)
+- [ ] Sand
+- [ ] Gras
+- [ ] Clouds
 
 ### Terrain (Kevin und Alex)
+- [ ] Height Map mit Wasserfall und Fluss
 
 ### Flugzeug Controller (Alex)
+- [x] Controller
 
 ### UI (Kevin)
+- [x] Aufbau
 
 #### Main Menu
-- Start Button
-- Exit Button
-- Credits Button
+- [ ] Start Button
+- [ ] Exit Button
+- [ ] Credits Button
 
 #### PauseMenu (Kevin)
-- BackToGame Button
-- BackToMainMenu Button
+- [ ] BackToGame Button
+- [ ] BackToMainMenu Button
 
 ______________________________________________________________________
 
